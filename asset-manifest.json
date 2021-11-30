@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kindeme/ReactMars/static/css/main.4fa4a349.chunk.css",
+    "main.js": "/kindeme/ReactMars/static/js/main.ce7803a0.chunk.js",
+    "main.js.map": "/kindeme/ReactMars/static/js/main.ce7803a0.chunk.js.map",
+    "runtime-main.js": "/kindeme/ReactMars/static/js/runtime-main.e8a949b5.js",
+    "runtime-main.js.map": "/kindeme/ReactMars/static/js/runtime-main.e8a949b5.js.map",
+    "static/js/2.66d356ff.chunk.js": "/kindeme/ReactMars/static/js/2.66d356ff.chunk.js",
+    "static/js/2.66d356ff.chunk.js.map": "/kindeme/ReactMars/static/js/2.66d356ff.chunk.js.map",
+    "static/js/3.f97d5ff1.chunk.js": "/kindeme/ReactMars/static/js/3.f97d5ff1.chunk.js",
+    "static/js/3.f97d5ff1.chunk.js.map": "/kindeme/ReactMars/static/js/3.f97d5ff1.chunk.js.map",
+    "index.html": "/kindeme/ReactMars/index.html",
+    "static/css/main.4fa4a349.chunk.css.map": "/kindeme/ReactMars/static/css/main.4fa4a349.chunk.css.map",
+    "static/js/2.66d356ff.chunk.js.LICENSE.txt": "/kindeme/ReactMars/static/js/2.66d356ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8a949b5.js",
+    "static/js/2.66d356ff.chunk.js",
+    "static/css/main.4fa4a349.chunk.css",
+    "static/js/main.ce7803a0.chunk.js"
+  ]
+}
